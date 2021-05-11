@@ -1,0 +1,3 @@
+[submodule "api-personal-web"]
+	path = api-personal-web
+	url = https://github.com/paulurbina/api-personal-web
